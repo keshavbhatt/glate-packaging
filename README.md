@@ -38,6 +38,16 @@ snap install glate
 [![glate](https://snapcraft.io/glate/trending.svg)](https://snapcraft.io/glate)
 [![Get it from the Snap Store](https://snapcraft.io/static/images/badges/en/snap-store-black.svg)](https://snapcraft.io/glate)
 
+## Install via Flathub
+
+Install from Flathub:
+
+```bash
+flatpak install flathub com.ktechpit.glate
+```
+
+[![Download on Flathub](https://flathub.org/api/badge?locale=en)](https://flathub.org/en/apps/com.ktechpit.glate)
+
 ## Build From Source
 
 ### Linux desktop build (Qt + CMake)
